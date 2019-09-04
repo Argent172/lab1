@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{text-align: center;
+font-size: 90px;
+font-style: italic;
+color: green;}
+a{text-decoration: none;}
+body {background: url("fon.png");}
+.ramka{display: block;
+height: auto;
+width: 698px;
+border:5px solid green;
+margin-left: auto;
+margin-right: auto;
+border-radius: 25px;
+margin-top: 30px;
+box-shadow: 20px 20px 50px 30px orange;}
+iframe{display: block;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;}
